@@ -9,12 +9,13 @@ Balanced Random Forest Classifier 94% </br>
 Easy Ensemble AdaBoost Classifer 93.2% </br>
 ![EasyPic](Resources/EasyPic.png) </br>
 Naive Random Oversampling 64.6% </br>
-![SmotePic](Resources/SmotePic.png) </br>
+![NaivePic](Resources/NaivePic.png) </br>
 Smote Oversampling 64.6% </br>
-![ClusterPic](Resources/ClusterPic.png) </br>
+![SmotePic](Resources/SmotePic.png) </br>
 Cluster Centrolds 64.6% </br>
-![SmoteennPic](Resources/SmoteennPic.png) </br>
+![ClusterPic](Resources/ClusterPic.png) </br>
 Combination of over and under using SMOTEENN 54.4% </br>
+![SmoteennPic](Resources/SmoteennPic.png) </br>
 
 ## Summary
 Based on the above results, we can determine the best supervised machine learning model would be Balanced Random Forest Classifer. 
